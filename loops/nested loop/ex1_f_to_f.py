@@ -1,13 +1,4 @@
-# for i in range(1,6):
-#     print("outer loop = ",i)
-#     for j in range(1,4):
-#         print("inner loop = ",j)
-#     else:
-#         print("inner loop else ")
-# else:
-#     print("outer loop else")
-#program for Demonstrating the Inner Loops
-#InnerLoopEx1.py
+
 for i in range(1,6):
     print("Outer Loop: Val of i={}".format(i))
     print("--------------------------------------")
