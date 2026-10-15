@@ -5,7 +5,7 @@ def welcome(name):  # Function Definition
 #-----------------------------------------------------
 #Main Program
 print("Type of welcome=",type(welcome))  #<class, function>
-print("I am After Function Def and Before Fucntion Call")
+print("I am After Function Def and Before Function Call")
 welcome("ROSSUM")  # Function Call
 welcome("TRAVIS") # Function Call
 welcome("Hunter") # Function Call
